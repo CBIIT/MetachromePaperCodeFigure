@@ -13,6 +13,13 @@ Code and analysis notebooks for generating figures in the Metachrome paper.
 | `XOR_Visualization.ipynb` | Ground truth vs prediction comparison visualization |
 | `analysis_notebook.ipynb` | General data analysis and visualization |
 
+## Data Availability
+
+The analysis data used in these notebooks is available on figshare:
+- **Analysis Data**: https://figshare.com/articles/dataset/analysis_data/30780209
+
+This dataset includes data for MetaChrome, an AI-powered tool for automated metaphase chromosome analysis using Napari and Cellpose deep learning models. The data is used for the paper available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.09.02.673813v1).
+
 ## Quick Start
 
 ```bash
